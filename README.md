@@ -27,9 +27,11 @@ We used three different models for the sentiment analysis, namely:
 The accuracy of the models evaluated were 74%, 73%, and 77% on RoBERTa, Afinn, DistilBERT respectively. That is, DistilBERT surpassed two popular sentiment analysis tools, AFINN and RoBERTa, in accuracy.
 
 
-
 ## Conclusion
 This research highlights the importance of sentiment analysis in the food delivery industry and demonstrates the effectiveness of different models in performing this task. It also provides insights for businesses looking to use sentiment analysis to improve their services and products.
+
+## Publication
+To be published in [ESCI 2023](https://esciioit.org).
 
 ## Authors
 
