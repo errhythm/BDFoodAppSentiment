@@ -31,7 +31,9 @@ The accuracy of the models evaluated were 74%, 73%, and 77% on RoBERTa, Afinn, D
 This research highlights the importance of sentiment analysis in the food delivery industry and demonstrates the effectiveness of different models in performing this task. It also provides insights for businesses looking to use sentiment analysis to improve their services and products.
 
 ## Publication
-To be published in [ESCI 2023](https://esciioit.org).
+Published in [ESCI 2023](https://esciioit.org).
+
+DOI: [10.1109/ESCI56872.2023.10100214](https://doi.org/10.1109/ESCI56872.2023.10100214)
 
 ## Authors
 
